@@ -1,6 +1,8 @@
 import Banner from "./components/Banner"
 import NavBar from "./components/NavBar"
 import Main from "./components/MainContent"
+import Information from "./components/Information"
+
 
 function App() {
 
@@ -10,6 +12,8 @@ function App() {
   <NavBar/>
   <Banner/>
   <Main/>
+  <Information/>
+
     </div>
   )
 }

@@ -9,7 +9,7 @@ const Main = () => {
           <p className="uppercase text-[#00df9a] font-bold">Data Analystic DashBoard</p>
           <p className="md:text-3xl sm:text-xl text-xl font-bold py-2">Manage Data analytical centerally</p>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed similique, tenetur veritatis illum itaque autem facere culpa consectetur harum earum adipisci commodi expedita? Repudiandae in, vero voluptatibus distinctio expedita ducimus?</p>
-          <button className=" items-center rounded-md my-6 py-3 w-[200px] mx-auto text-[#00df9a] font-medium bg-black">Get Started</button>
+          <button className=" items-center rounded-md my-6 py-3 w-[200px] mx-auto text-[#00df9a] font-medium bg-black md:mx-0">Get Started</button>
         </div>
       </div>
     </div>
